@@ -5,3 +5,5 @@ The purpose of this repository is to serve as an index to the anthologies.
 
 See the wiki at
 https://github.com/nashjc/CreativeMusings/wiki
+
+...
